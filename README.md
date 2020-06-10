@@ -1,6 +1,6 @@
-# login
+# Telas Rede Social
 
-A new Flutter project.
+# Créditos do Layout: https://www.behance.net/gallery/73935801/Doglife-Ui-Kit-Free-for-Adobe-XD
 
 ## Getting Started
 
